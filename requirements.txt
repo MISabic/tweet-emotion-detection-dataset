@@ -1,0 +1,4 @@
+tweepy==4.2.0
+XlsxWriter==3.0.1
+tqdm==4.62.3
+python-decouple==3.5.0
